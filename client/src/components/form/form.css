@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: fit-content;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.form> h1 {
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.form > form > h5 {
+    margin-bottom: 5px;
+}
+
+.form > form > input {
+width: 98%;
+height: 30px;
+margin-bottom: 10px;
+    border: 1px solid #000;
+background-color: white;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.buttons > p {
+    padding: 10px 0px;
+}

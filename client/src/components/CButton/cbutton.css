@@ -1,0 +1,23 @@
+button {
+  border: none;
+  border: 1px solid #000;
+}
+
+.primary {
+  background-color: #ff9f00;
+}
+.secondary {
+  background-color: beige;
+}
+
+.small {
+  padding: 5px 20px;
+}
+
+.large {
+  padding: 15px 30px;
+}
+
+.normal {
+  padding: 10px 20px;
+}
