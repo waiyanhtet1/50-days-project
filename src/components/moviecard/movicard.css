@@ -1,6 +1,8 @@
 .movie-card {
     display: inline-flex;
     position: relative;
+    min-width: fit-content;
+    overflow: hidden;
     background: blue;
 }
 
