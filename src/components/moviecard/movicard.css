@@ -1,0 +1,10 @@
+.movie-card {
+    display: inline-flex;
+    position: relative;
+    background: blue;
+}
+
+
+.movie-card:hover  {
+    transform: scale(1.1);
+}
